@@ -1,0 +1,5 @@
+{
+  "name": "OmniVoice Studio",
+  "description": "A professional-grade Text-to-Speech tool using native Browser (Edge) speech capabilities.",
+  "requestFramePermissions": []
+}
